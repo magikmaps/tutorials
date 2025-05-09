@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2,
+    "title": "Urban Suite Tutorial 1",
+    "description": "Everything you need to know to start using Urban Suite effectively.",
+    "youtubeId": "9d_ycKZuvW8",
+    "duration": "03:47",
+    "category": "urban-suite",
+    "likes": 89,
+    "date": "2025-05-03"
+  },
+  {
+    "id": 4,
+    "title": "Civil Suite Tutorial 1",
+    "description": "Everything you need to know to start using Civil Suite effectively.",
+    "youtubeId": "yFAIKc38Pww",
+    "duration": "05:29",
+    "category": "civil-suite",
+    "likes": 112,
+    "date": "2025-05-04"
+  },
+  {
+    "id": 5,
+    "title": "Civil Suite Tutorial 2",
+    "description": "Learn how to make make a new road design and export to KML",
+    "youtubeId": "R7XbeNqcCdA",
+    "duration": "03:47",
+    "category": "civil-suite",
+    "likes": 203,
+    "date": "2025-05-05"
+  },
+  {
+    "id": 1,
+    "title": "Urban Suite Setup",
+    "description": "Learn the basics of Urban Suite, including installation, setup, and core features.",
+    "youtubeId": "8CeeKC7XsXw",
+    "duration": "1:54",
+    "category": "urban-suite",
+    "likes": 124,
+    "date": "2025-05-01"
+  },
+  {
+    "id": 3,
+    "title": "Civil Suite Setup",
+    "description": "Learn the basics of Civil Suite, including installation, setup, and core features.",
+    "youtubeId": "r1dYZXySqGY",
+    "duration": "01:53",
+    "category": "civil-suite",
+    "likes": 156,
+    "date": "2025-05-02"
+  }
+]
