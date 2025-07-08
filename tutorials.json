@@ -48,5 +48,25 @@
     "category": "civil-suite",
     "likes": 156,
     "date": "2025-05-02"
+  },
+  {
+    "id": 6,
+    "title": "Civil Suite Update Steps",
+    "description": "Steps to update the civil suite software",
+    "youtubeId": "eI_V6TuLs1I",
+    "duration": "00:55",
+    "category": "civil-suite",
+    "likes": 203,
+    "date": "2025-07-08"
+  },
+  {
+    "id": 7,
+    "title": "Civil Suite V1.1.0.0",
+    "description": "An overview of the new updates and enhancements in Civil Suite",
+    "youtubeId": "mmruvmfN4c4",
+    "duration": "00:51",
+    "category": "civil-suite",
+    "likes": 203,
+    "date": "2025-07-08"
   }
 ]
